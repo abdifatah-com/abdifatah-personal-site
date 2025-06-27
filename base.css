@@ -1,0 +1,35 @@
+html.lenis, html.lenis body {
+    height: auto;
+  }
+  
+  .lenis.lenis-smooth {
+    scroll-behavior: auto !important;
+  }
+  
+  .lenis.lenis-smooth [data-lenis-prevent] {
+    overscroll-behavior: contain;
+  }
+  
+  .lenis.lenis-stopped {
+    overflow: hidden;
+  }
+  
+  .lenis.lenis-scrolling iframe {
+    pointer-events: none;
+  }
+
+
+  /* Social Icons */
+  .link-3 i, .link-2 i, .link i {
+  font-size: 24px;
+  color: #333;
+  margin-right: 15px;
+  transition: color 0.3s;
+  margin-right: 5rem;
+}
+
+.link-3 i:hover,
+.link-2 i:hover,
+.link i:hover {
+  color: purple; /* or your brand color */
+}
