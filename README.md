@@ -3,7 +3,7 @@
 As a Creative Designer, Developer, and Digital Marketer, I build brands, websites, and content that connect. From clean code to scroll-stopping visuals, I help businesses grow through standout design, strategic marketing, and content creation — backed by over 18K+ engaged followers. Let’s bring your vision to life and build an online presence that actually makes noise.
 
 ## 💻 Live Demo
-[Coming soon...](https://abdifatah.site/)
+[DEMO...](https://abdifatah.site/)
 
 ## 📫 Contact
 - 📧 Email: [abdifatahmarketing@gmail.com](mailto:abdifatahmarketing@gmail.com)
